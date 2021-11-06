@@ -1,0 +1,29 @@
+﻿  io.cpp
+d:\computing maths\lab1\lab1\io.cpp(74): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\io.cpp(76): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\io.cpp(127): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\io.cpp(142): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\io.cpp(164): warning C4018: <: несоответствие типов со знаком и без знака
+  simpleIterations.cpp
+d:\computing maths\lab1\lab1\simpleiterations.cpp(13): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(32): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(48): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(60): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(62): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(74): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(76): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(87): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(88): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(109): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(111): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(122): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(132): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(141): warning C4018: <: несоответствие типов со знаком и без знака
+d:\computing maths\lab1\lab1\simpleiterations.cpp(143): warning C4018: <: несоответствие типов со знаком и без знака
+  workvector.cpp
+d:\computing maths\lab1\lab1\workvector.cpp(38): warning C4101: a: неиспользованная локальная переменная
+  Создание кода...
+  Lab1.vcxproj -> D:\Computing maths\Lab2\Debug\Lab1.lib
